@@ -1,6 +1,6 @@
 {
   "name": "datatables.net-bulma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jQuery DataTables plugin and Bulma integration.",
   "main": "js/dataTables.bulma.js",
   "scripts": {
