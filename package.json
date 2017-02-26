@@ -1,36 +1,25 @@
 {
-  "name": "datatables-bulma-plugin",
+  "name": "datatables.net-bulma",
+  "version": "1.0.0",
   "description": "jQuery DataTables plugin and Bulma integration.",
-  "version": "0.1.0",
-  "author": {
-    "name": "Florencia Peretti",
-    "email": "florenperetti@gmail.com"
-  },
-  "keywords": [
-    "javascript",
-    "datatables",
-    "bulma",
-    "plugin"
-  ],
   "main": "js/dataTables.bulma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/florenperetti/datatables-bulma-plugin.git"
+    "url": "git+https://github.com/florenperetti/datatables-bulma-plugin.git"
   },
+  "keywords": [
+    "datatables",
+    "bulma",
+    "jquery",
+    "plugin"
+  ],
+  "author": "Florencia Peretti <florenperetti@gmail.com> (https://github.com/florenperetti/)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/florenperetti/datatables-bulma-plugin/issues"
   },
-  "license": "MIT",
-  "dependencies": {
-    "bulma": "^0.3.1",
-    "datatables": "^1.10",
-    "jquery": "~1.11"
-  },
-  "engines": {
-    "node": ">=0.10.*"
-  },
-  "homepage": "https://github.com/florenperetti/datatables-bulma-plugin",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "homepage": "https://github.com/florenperetti/datatables-bulma-plugin#readme"
 }
