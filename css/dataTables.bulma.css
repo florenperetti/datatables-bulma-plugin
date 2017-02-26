@@ -1,0 +1,15 @@
+.dataTables_length label {
+  line-height: 2.2em !important;
+}
+
+.pagination .pagination-next {
+  margin: 0;
+}
+
+.pagination .last {
+  margin-left: .75rem;
+}
+
+.pagination .first {
+  margin-right: .75rem !important;
+}
